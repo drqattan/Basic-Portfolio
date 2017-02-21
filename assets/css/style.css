@@ -62,7 +62,7 @@ li {
 }
 
 #Portf li:before {
-	content: "♥";
+	content: "☯";
 	padding-right: 16px;
 	margin-top: 10px;
 }
